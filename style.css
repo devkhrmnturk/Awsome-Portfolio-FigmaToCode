@@ -267,9 +267,9 @@ form,input,textarea{
 /* RESPONSIVENESS */
 
 @media (max-width:768px) {
-    /* body{
+    body{
         padding: 1rem;
-    } */
+    }
     header,section,.skill-list,.grid-container,.client-list,footer,.logo-list {
         display: flex;
         flex-direction: column;
