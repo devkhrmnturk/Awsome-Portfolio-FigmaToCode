@@ -277,6 +277,10 @@ form,input,textarea{
         gap: 4rem;
     }
 
+    h1 {
+        font-size: 20px;
+    }
+
     .nav-links {
         display: none;
     }
